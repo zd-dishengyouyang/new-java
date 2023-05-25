@@ -13,6 +13,10 @@ public class text {
             System.out.println(m.getScore());
             System.out.println(m.getActor());
             System.out.println("============================");
+            System.out.println("============================");
+            System.out.println("============================");
+            System.out.println("============================");
+            System.out.println("============================");
         }
     }
 
